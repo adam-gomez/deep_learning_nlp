@@ -7,3 +7,5 @@ This repository is made up of informative notebooks meant to be read in a sequen
     - A simple multilayer neural network is constructed via Keras to solve a binary classification problem. Validation methods and hyperparameter optimziation techniques are explored.
 - **03_multiclass_classification.ipynb**
     - A simple neural network is constructed to solve a multiclass classification problem.
+- **04_sample_project_sonar_returns.ipynb**
+    - A binary classification problem is approached via neural networks. Performance improvement via standardization and alterations to network topology are explored. 
